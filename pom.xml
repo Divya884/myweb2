@@ -32,12 +32,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://3.128.206.30:8081/repository/sample-snapshots/</url>
+		    <url>http://3.15.176.134:8081/repository/task-snpsht/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.128.206.30:8081/repository/sample-releases/</url>
+		    <url>http://3.15.176.134:8081/repository/task-rlsc/</url>
 		</repository>
   	</distributionManagement>
 	
